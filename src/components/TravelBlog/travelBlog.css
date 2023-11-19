@@ -1,0 +1,38 @@
+.place-photo {
+  width: 400px;
+  height: 400px;
+}
+
+.blog-images {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.blog-section {
+  justify-content: center;
+  margin: 10px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.blog-header {
+  display: flex;
+  padding: 20px;
+  margin-top: 5px;
+  font-size: 50px;
+  justify-content: center;
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.blog-description {
+  display: flex;
+  padding: 20px;
+  margin: 5px;
+  font-size: 20px;
+  justify-content: center;
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
